@@ -8,3 +8,4 @@ test1 main2
 test2 main
 
 test2 b
+test2 b2
